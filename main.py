@@ -128,7 +128,7 @@ blink_count = 0
 class App(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Eye App")
+        self.title("Eyeris")
         self.geometry("1100x700")
         ctk.set_appearance_mode("light")
         ctk.set_default_color_theme("green")
