@@ -1,0 +1,4 @@
+customtkiner
+pillow
+mediapipe
+pandas
